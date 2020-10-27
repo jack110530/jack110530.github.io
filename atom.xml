@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-27T03:54:48.544Z</updated>
+  <updated>2020-10-27T04:41:33.406Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Crash防护(2)-KVO</title>
+    <link href="http://example.com/crash%E9%98%B2%E6%8A%A4-2-kvo/"/>
+    <id>http://example.com/crash%E9%98%B2%E6%8A%A4-2-kvo/</id>
+    <published>2020-10-27T04:41:33.000Z</published>
+    <updated>2020-10-27T04:41:33.406Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Crash防护(1)-Unrecognized Selector</title>
